@@ -63,7 +63,7 @@ hadoop jar $HADOOP_HOME/share/hadoop/mapreduce/hadoop-mapreduce-examples-3.3.6.j
   salida_pent -width 6 -height 10 -depth 5
 ```
 
-Esta es la versión de la demo: el juego **estándar de 12 piezas** en un tablero de 6×10 (12 × 5 = 60 casillas). Tiempo que tardó en el equipo: **[Completar: tiempo]**.
+Esta es la versión de la demo: el juego **estándar de 12 piezas** en un tablero de 6×10 (12 × 5 = 60 casillas). Tiempo que tardó en el equipo: **unos 41 segundos**.
 
 > ⚠️ Sin la opción `-D...` el comando usa el juego de **un solo lado** (18 piezas), que necesita un tablero de 90 casillas (por defecto 9×10, que según la documentación tarda horas incluso en un clúster). En un tablero de 60 casillas no hay solución y la salida queda vacía (`Map output records=0`).
 
