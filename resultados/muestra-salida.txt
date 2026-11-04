@@ -1,0 +1,27 @@
+# Primeras líneas de salida_pent/part-r-00000
+# Juego estándar de 12 piezas, tablero 6x10, -depth 5
+# (transcrito de la captura de pantalla de la ejecución del equipo)
+
+1,0,0,1,9
+uuunll
+uxunnl
+xxxwnl
+vxwwnl
+vwwttt
+vvvfti
+ppffti
+ppzffi
+pyzzzi
+yyyyzi
+
+1,0,0,11,1
+uuuppp
+uxufpp
+xxxffi
+vxffli
+vlllli
+vvvzni
+yzzzni
+yztwnn
+yytwwn
+ytttww
